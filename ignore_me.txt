@@ -1,1 +1,4 @@
 # gitinore
+
+the gitinore file allows users acccessing material to identif what file can be overlooked or discarded when working on a specific tas. The file allows to have a better control over the time managment and and work flow by being able to utilize all needed files and disregard or ignore all other files that may be present but have no relevance o the task at hand.
+
